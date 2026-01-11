@@ -1,0 +1,3 @@
+loanId,memberId,title,loanDate,returnDate,returned
+L1,M1,Atomic Habits,2026-01-10,2026-01-17,true
+L2,M1,Deep Work,2026-01-10,2026-01-17,false

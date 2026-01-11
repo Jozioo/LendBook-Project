@@ -1,0 +1,19 @@
+title,author,imagePath,description,rating,available
+Atomic Habits,James Clear,images/book1.png,A practical guide on building good habits and breaking bad ones through small consistent changes,5,true
+Deep Work,Cal Newport,images/book2.png,Explores the importance of focused work and strategies to eliminate distractions in a distracted world,5,false
+Clean Code,Robert C. Martin,images/book3.png,Teaches principles and best practices for writing clean readable and maintainable software code,5,true
+The Pragmatic Programmer,Andrew Hunt,images/book4.png,Provides practical advice and mindset tips for becoming a better and more effective software developer,5,true
+Design Patterns,Erich Gamma,images/book5.png,Introduces reusable solutions to common problems in object oriented software design,5,true
+Refactoring,Martin Fowler,images/book6.png,Explains techniques for improving existing code structure without changing its behavior,5,true
+Introduction to Algorithms,Thomas H. Cormen,images/book7.png,Comprehensive textbook covering a wide range of algorithms and data structures with rigorous analysis,5,true
+You Don't Know JS,Kyle Simpson,images/book8.png,In depth exploration of JavaScript fundamentals including scope closures and asynchronous behavior,4,true
+Effective Java,Joshua Bloch,images/book9.png,Provides best practices and design guidelines for writing robust efficient and maintainable Java code,5,true
+Code Complete,Steve McConnell,images/book10.png,Comprehensive guide to software construction covering coding debugging testing and project management,5,true
+Head First Design Patterns,Eric Freeman,images/book11.png,A visually rich and beginner friendly introduction to design patterns using real world examples,4,true
+Cracking the Coding Interview,Gayle Laakmann McDowell,images/book12.png,Contains programming interview questions and solutions with tips for technical interview preparation,4,true
+Clean Architecture,Robert C. Martin,images/book13.png,Discusses architectural principles and best practices for building scalable and maintainable software systems,5,true
+The Mythical Man-Month,Fred Brooks,images/book14.png,Classic essays discussing software project management and the challenges of large scale development,4,true
+Domain-Driven Design,Eric Evans,images/book15.png,Focuses on designing complex software systems using domain models and collaboration with domain experts,5,true
+Working Effectively with Legacy Code,Michael Feathers,images/book16.png,Offers techniques for safely modifying and improving poorly structured legacy codebases,5,true
+Algorithms to Live By,Brian Christian,images/book17.png,Explains how algorithms and computer science principles can be applied to everyday life decisions,4,true
+Soft Skills,John Sonmez,images/book18.png,Guides software developers on career growth productivity communication and personal development,4,true
